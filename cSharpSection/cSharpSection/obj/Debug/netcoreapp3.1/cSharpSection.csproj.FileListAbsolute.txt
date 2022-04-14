@@ -1,0 +1,13 @@
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\bin\Debug\netcoreapp3.1\cSharpSection.exe
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\bin\Debug\netcoreapp3.1\cSharpSection.deps.json
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\bin\Debug\netcoreapp3.1\cSharpSection.runtimeconfig.json
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\bin\Debug\netcoreapp3.1\cSharpSection.runtimeconfig.dev.json
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\bin\Debug\netcoreapp3.1\cSharpSection.dll
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\bin\Debug\netcoreapp3.1\cSharpSection.pdb
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\obj\Debug\netcoreapp3.1\cSharpSection.csprojAssemblyReference.cache
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\obj\Debug\netcoreapp3.1\cSharpSection.AssemblyInfoInputs.cache
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\obj\Debug\netcoreapp3.1\cSharpSection.AssemblyInfo.cs
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\obj\Debug\netcoreapp3.1\cSharpSection.csproj.CoreCompileInputs.cache
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\obj\Debug\netcoreapp3.1\cSharpSection.dll
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\obj\Debug\netcoreapp3.1\cSharpSection.pdb
+C:\Users\dave-\xamarin\cSharpSection\cSharpSection\obj\Debug\netcoreapp3.1\cSharpSection.genruntimeconfig.cache

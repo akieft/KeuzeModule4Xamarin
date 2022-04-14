@@ -1,0 +1,14 @@
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\bin\Debug\netstandard2.0\XamHelloWorld.deps.json
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\bin\Debug\netstandard2.0\XamHelloWorld.dll
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\bin\Debug\netstandard2.0\ref\XamHelloWorld.dll
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\bin\Debug\netstandard2.0\XamHelloWorld.pdb
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\XamHelloWorld.csprojAssemblyReference.cache
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\XamHelloWorld.AssemblyInfoInputs.cache
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\XamHelloWorld.AssemblyInfo.cs
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\XamHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\XamHelloWorld.dll
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\ref\XamHelloWorld.dll
+C:\Users\dave-\xamarin\XamHelloWorld\XamHelloWorld\XamHelloWorld\obj\Debug\netstandard2.0\XamHelloWorld.pdb
